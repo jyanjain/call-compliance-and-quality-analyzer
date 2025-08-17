@@ -1,0 +1,167 @@
+[
+  {
+    "call_id": "02b08433-58e0-46af-961e-221ba94cb8df",
+    "speaker": "agent",
+    "text": "Thank you, John. You currently have a balance of three hundred dollars. When can we expect payment?"
+  },
+  {
+    "call_id": "0bf6844f-af6a-4e46-8d72-9ec01e4bc99a",
+    "speaker": "agent",
+    "text": "No problem! I can look it up with your name. You've got an outstanding balance of $250. Would you like to discuss payment options?"
+  },
+  {
+    "call_id": "0e2d1981-bd63-4fdd-a4ef-075732cbf26b",
+    "speaker": "agent",
+    "text": "Thank you, Alex. You have a balance of $250 due on your account. How would you like to settle this today?"
+  },
+  {
+    "call_id": "1190bab7-d82f-4259-bb55-9617dff7da07",
+    "speaker": "agent",
+    "text": "Thank you, Alex. I see here you have a balance of $500 due. Would you like to discuss payment options?"
+  },
+  {
+    "call_id": "1190bab7-d82f-4259-bb55-9617dff7da07",
+    "speaker": "agent",
+    "text": "Sure! The account number is 123456. So how would you like to settle the balance?"
+  },
+  {
+    "call_id": "12968330-6da1-4860-b418-417794f640c6",
+    "speaker": "agent",
+    "text": "Thank you. I see here that you have an outstanding balance of $250. How do you want to handle it today?"
+  },
+  {
+    "call_id": "2ea925db-df94-4d9b-bd72-6c227742569d",
+    "speaker": "agent",
+    "text": "Sure! Your current balance is $350. How would you like to proceed with this payment?"
+  },
+  {
+    "call_id": "2ea925db-df94-4d9b-bd72-6c227742569d",
+    "speaker": "agent",
+    "text": "Alright, I understand. Your balance remains $350 and we can split it into smaller payments if that helps."
+  },
+  {
+    "call_id": "40b40ec2-8ce2-47a8-b9d4-621285d7b484",
+    "speaker": "agent",
+    "text": "Thank you, Lisa. You currently have a balance of $450. How would you like to proceed with the payment?"
+  },
+  {
+    "call_id": "40b40ec2-8ce2-47a8-b9d4-621285d7b484",
+    "speaker": "agent",
+    "text": "We can do weekly or monthly payments. For example, a monthly payment of $150 would work for you."
+  },
+  {
+    "call_id": "542ab104-354b-46fd-93a7-ae64906f31ef",
+    "speaker": "agent",
+    "text": "Hello, this is Jessica from ACME Collections. I'm calling about your outstanding balance on account number one two three four five."
+  },
+  {
+    "call_id": "5c0bf9ad-669f-4a26-8c08-4af6f9698cf0",
+    "speaker": "agent",
+    "text": "Thank you, John. I see that your current balance is $450. Would you like to discuss payment options?"
+  },
+  {
+    "call_id": "6387f58b-67bc-490c-857d-71f5daac829e",
+    "speaker": "agent",
+    "text": "Your current balance is three hundred and fifty dollars, and it's important to resolve this as soon as possible."
+  },
+  {
+    "call_id": "65f99be3-1a8a-4f1f-91f0-7f3a4fe4235b",
+    "speaker": "agent",
+    "text": "Thank you, Jordan. Your account shows a balance of $750. How would you like to settle this today?"
+  },
+  {
+    "call_id": "708878fa-108e-4c22-b7bf-1d5c38227087",
+    "speaker": "agent",
+    "text": "I understand your hesitation; however, I need that to proceed. Your current balance is fifty dollars."
+  },
+  {
+    "call_id": "742147aa-a2df-4429-859e-05b4a7875563",
+    "speaker": "agent",
+    "text": "Thank you for that. Now, your current balance is $500. Would you like to discuss payment options?"
+  },
+  {
+    "call_id": "76e1c00c-bdcf-43c1-aee6-ea7dd7fa85fa",
+    "speaker": "agent",
+    "text": "Your current balance is three hundred fifty dollars. How would you like to proceed with this payment?"
+  },
+  {
+    "call_id": "8e34b537-4076-4736-b07f-5437c2379e57",
+    "speaker": "agent",
+    "text": "You currently have a balance of $450. How would you like to proceed with payment?"
+  },
+  {
+    "call_id": "9e936113-46a1-4d70-9cc5-876b1c801602",
+    "speaker": "agent",
+    "text": "Thank you, John. You have a balance of $350 due. How do you plan to handle this today?"
+  },
+  {
+    "call_id": "a91cf5c5-a334-451e-b124-6082ee502f88",
+    "speaker": "agent",
+    "text": "Hi John, this is Linda from Apex Collections. I'm calling about your outstanding balance of seven hundred dollars."
+  },
+  {
+    "call_id": "acec9db1-1209-4f98-881e-6d413e1aba2d",
+    "speaker": "agent",
+    "text": "Thank you, Sarah. You have a balance of two hundred fifty dollars. When can we expect payment?"
+  },
+  {
+    "call_id": "b155951b-086d-4f20-8fb5-de3e42253ce6",
+    "speaker": "agent",
+    "text": "I can assure you that we want to resolve this matter. Your current balance is $500."
+  },
+  {
+    "call_id": "b6eb2096-6102-431d-b0df-4a87310d46c4",
+    "speaker": "agent",
+    "text": "Thank you for that. I see here you have an outstanding balance of $450. Would you like to settle that today?"
+  },
+  {
+    "call_id": "c46407f6-d657-47ab-9ed7-1c31d5cc8a4e",
+    "speaker": "agent",
+    "text": "Thank you, Mr. Johnson. I see you have a balance of $450. Can we discuss payment options?"
+  },
+  {
+    "call_id": "c67274cc-d920-467a-80cc-476c9dd280d4",
+    "speaker": "agent",
+    "text": "Great! You've got an outstanding balance of $500. When are you gonna pay this shit off?"
+  },
+  {
+    "call_id": "d7bbea61-d739-43fb-a198-ced1b59f9491",
+    "speaker": "agent",
+    "text": "I assure you, I'm here to help resolve this matter. Your current balance is $500. How do you prefer to settle this?"
+  },
+  {
+    "call_id": "dbd3e2fd-4a8f-4eb3-aa6f-befcc150bfd8",
+    "speaker": "agent",
+    "text": "Sure! You have an overdue balance of $450. How do you wish to handle this?"
+  },
+  {
+    "call_id": "e1b7e07b-c906-40f4-9173-5bfbe32f040f",
+    "speaker": "agent",
+    "text": "You currently have an outstanding balance of five hundred dollars. How would you like to proceed?"
+  },
+  {
+    "call_id": "e1b7e07b-c906-40f4-9173-5bfbe32f040f",
+    "speaker": "agent",
+    "text": "The original amount was six hundred dollars, but after payments and fees, the current balance is five hundred."
+  },
+  {
+    "call_id": "e96bd606-4673-43e3-b04b-f6a474bb86a0",
+    "speaker": "agent",
+    "text": "I need to inform you that you have an outstanding balance of $500. How would you like to proceed?"
+  },
+  {
+    "call_id": "ecf48f31-9a97-4042-bd79-0c24e6ecb4af",
+    "speaker": "agent",
+    "text": "Thank you, John. You currently have a balance of $250. How would you like to handle that today?"
+  },
+  {
+    "call_id": "ecf48f31-9a97-4042-bd79-0c24e6ecb4af",
+    "speaker": "agent",
+    "text": "Absolutely. You missed your last payment in October, and the total due is $250."
+  },
+  {
+    "call_id": "ee078707-82d8-4937-942a-0d1dce58dac5",
+    "speaker": "agent",
+    "text": "Thank you, Jessica. You currently have a balance of two thousand five hundred dollars."
+  }
+]
