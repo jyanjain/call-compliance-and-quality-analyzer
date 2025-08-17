@@ -1,0 +1,9 @@
+streamlit
+groq
+google-generativeai
+pandas
+matplotlib
+seaborn
+scikit-learn
+joblib
+python-dotenv
