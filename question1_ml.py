@@ -26,7 +26,7 @@ def detect_profanity_ml(folder: str):
                 X_text = vectorizer.transform([text])
                 proba = model.predict_proba(X_text)[0]
 
-                if proba[1] >= 0.6:
+                if proba[1] >= 0.54:
                     if "Who's calling" in text or "confirm your address" in text or "verify your address" in text or "verify your name" in text or "tell me your address" in text or "confirm your name" in text:
                         continue
                     profane_records.append({
@@ -44,4 +44,4 @@ def detect_profanity_ml(folder: str):
 
     return agent_profanity_calls, customer_profanity_calls
 
-# detect_profanity_ml("All_Conversations")
+detect_profanity_ml("All_Conversations")
