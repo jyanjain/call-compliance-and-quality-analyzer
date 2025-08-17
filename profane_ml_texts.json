@@ -1,0 +1,432 @@
+[
+  {
+    "call_id": "019b9e97-9575-459e-9893-b59d8c99acef",
+    "speaker": "customer",
+    "text": "I'm okay, but why are you calling me?"
+  },
+  {
+    "call_id": "04bec80f-8614-484b-8ba2-831ff9dd03ef",
+    "speaker": "agent",
+    "text": "Alright, that checks out. Now, you owe us a shitload of money. What the hell are you planning to do about it?"
+  },
+  {
+    "call_id": "04bec80f-8614-484b-8ba2-831ff9dd03ef",
+    "speaker": "agent",
+    "text": "Payment plan? Who the hell do you think you are? Just pay the damn balance!"
+  },
+  {
+    "call_id": "04bec80f-8614-484b-8ba2-831ff9dd03ef",
+    "speaker": "agent",
+    "text": "A reasonable solution is to pay what you owe! Stop wasting my time!"
+  },
+  {
+    "call_id": "20690906-b8d4-40c5-8474-9127c47b1299",
+    "speaker": "customer",
+    "text": "How the hell do you think I am? It's not like I wanted this call!"
+  },
+  {
+    "call_id": "20690906-b8d4-40c5-8474-9127c47b1299",
+    "speaker": "customer",
+    "text": "I don’t give a damn! I won’t pay a cent until I get my money back!"
+  },
+  {
+    "call_id": "20690906-b8d4-40c5-8474-9127c47b1299",
+    "speaker": "customer",
+    "text": "Whatever. Just tell me what you got, but I'm not promising anything!"
+  },
+  {
+    "call_id": "216fd3c8-1a80-484d-8792-464771794d9e",
+    "speaker": "customer",
+    "text": "What the hell do you want? I'm busy!"
+  },
+  {
+    "call_id": "216fd3c8-1a80-484d-8792-464771794d9e",
+    "speaker": "customer",
+    "text": "I’m not paying a dime! You can shove that balance up your ass!"
+  },
+  {
+    "call_id": "23091fb3-8e07-4d4c-8575-227e3467e73a",
+    "speaker": "agent",
+    "text": "You better. Or, trust me, I’ll be back on your ass with more calls!"
+  },
+  {
+    "call_id": "29489f77-b8e0-462c-9286-9216d59890f1",
+    "speaker": "agent",
+    "text": "Listen, lady, you’ve got to sort your shit out. This isn’t a charity."
+  },
+  {
+    "call_id": "29489f77-b8e0-462c-9286-9216d59890f1",
+    "speaker": "agent",
+    "text": "I don’t give a damn what you need! You owe money, and you better pay it!"
+  },
+  {
+    "call_id": "2ea925db-df94-4d9b-bd72-6c227742569d",
+    "speaker": "customer",
+    "text": "I don't have that information right now. Can you tell me the balance?"
+  },
+  {
+    "call_id": "39c3e29c-7b7c-43d2-999b-eb473ec31de3",
+    "speaker": "customer",
+    "text": "Yes, this is him. Who is calling?"
+  },
+  {
+    "call_id": "3e6dde01-1a46-42b4-92dd-0a211185e660",
+    "speaker": "customer",
+    "text": "Why don’t you shove it? I’m not telling you a damn thing!"
+  },
+  {
+    "call_id": "3e77de75-66b9-4b74-a993-1c25b6850bc9",
+    "speaker": "customer",
+    "text": "What the hell do you want? I'm not in the mood for this crap!"
+  },
+  {
+    "call_id": "3e77de75-66b9-4b74-a993-1c25b6850bc9",
+    "speaker": "customer",
+    "text": "Why the hell should I tell you anything? You're just after my money!"
+  },
+  {
+    "call_id": "4f05aaff-585f-485f-90a1-60d027ec6e46",
+    "speaker": "agent",
+    "text": "You say that every damn time! What’s stopping you from sorting this out now?"
+  },
+  {
+    "call_id": "4f05aaff-585f-485f-90a1-60d027ec6e46",
+    "speaker": "agent",
+    "text": "Professional? You think I’m playing games? Get your shit together!"
+  },
+  {
+    "call_id": "4f05aaff-585f-485f-90a1-60d027ec6e46",
+    "speaker": "agent",
+    "text": "Whatever, just make sure you do it or I’ll be back on your ass!"
+  },
+  {
+    "call_id": "50abe040-847c-47e1-962f-a00d7ff2cfe4",
+    "speaker": "agent",
+    "text": "Professionally? This is a debt collection call, not a tea party! Pay your damn bills!"
+  },
+  {
+    "call_id": "52ddb4a0-0599-4e18-a961-ac4b67da8d5e",
+    "speaker": "agent",
+    "text": "Hurry the hell up then! This is a joke, right?"
+  },
+  {
+    "call_id": "584fd5cd-adaa-4315-bf67-ad56d02d135e",
+    "speaker": "customer",
+    "text": "What the hell do you want? I’m not in the mood for this crap!"
+  },
+  {
+    "call_id": "584fd5cd-adaa-4315-bf67-ad56d02d135e",
+    "speaker": "customer",
+    "text": "What part of 'leave me the hell alone' don’t you get? I’m not giving you anything!"
+  },
+  {
+    "call_id": "5c0bf9ad-669f-4a26-8c08-4af6f9698cf0",
+    "speaker": "agent",
+    "text": "I'm calling in regard to your account with Quick Loans. Can you please confirm your full name so we can proceed?"
+  },
+  {
+    "call_id": "5e231fa2-03d8-4e70-9918-da45193472a9",
+    "speaker": "agent",
+    "text": "Feasible? Stop giving me excuses. Just pick a damn payment method!"
+  },
+  {
+    "call_id": "708878fa-108e-4c22-b7bf-1d5c38227087",
+    "speaker": "customer",
+    "text": "What the hell do you want? I'm sick of this crap!"
+  },
+  {
+    "call_id": "708878fa-108e-4c22-b7bf-1d5c38227087",
+    "speaker": "customer",
+    "text": "I don't care about that! Just stop calling me already!"
+  },
+  {
+    "call_id": "708878fa-108e-4c22-b7bf-1d5c38227087",
+    "speaker": "customer",
+    "text": "Solution? You're just a leech! Leave me the hell alone!"
+  },
+  {
+    "call_id": "708e7950-1be4-47a7-9c82-e03c88f5a1d0",
+    "speaker": "customer",
+    "text": "Please do that. I’d like to resolve this quickly."
+  },
+  {
+    "call_id": "74aa32ec-6cf0-4c54-bbdb-a8e16d66f457",
+    "speaker": "customer",
+    "text": "Yes, this is he. Who’s calling?"
+  },
+  {
+    "call_id": "76e1c00c-bdcf-43c1-aee6-ea7dd7fa85fa",
+    "speaker": "customer",
+    "text": "I don’t have that right now. Can you tell me what balance you're referring to?"
+  },
+  {
+    "call_id": "8598c6d9-a767-4120-af0a-5490357c72f3",
+    "speaker": "customer",
+    "text": "Why the hell do you need that? Just f*** off already!"
+  },
+  {
+    "call_id": "87e28dae-2c70-4122-9452-6ec82164fab2",
+    "speaker": "agent",
+    "text": "Options? How about you just stop being so damn lazy and settle your debt? That's an option!"
+  },
+  {
+    "call_id": "89d28c5a-f0da-41e9-a93e-0a749c20189c",
+    "speaker": "agent",
+    "text": "Trying to resolve it? You think this is a joke? Pay your damn bill or face the consequences!"
+  },
+  {
+    "call_id": "89d28c5a-f0da-41e9-a93e-0a749c20189c",
+    "speaker": "agent",
+    "text": "Good luck with that! Just don’t come crying to me when you end up in deeper shit!"
+  },
+  {
+    "call_id": "8ae8018c-15b3-46f6-9713-f956505735ec",
+    "speaker": "customer",
+    "text": "What the hell do you want? I’m not in the mood for your crap!"
+  },
+  {
+    "call_id": "8ae8018c-15b3-46f6-9713-f956505735ec",
+    "speaker": "customer",
+    "text": "A payment plan? You think I have time for your bullsh*t? Just stop calling me!"
+  },
+  {
+    "call_id": "8e34b537-4076-4736-b07f-5437c2379e57",
+    "speaker": "customer",
+    "text": "Sure, I’d like to know the balance first."
+  },
+  {
+    "call_id": "928acb70-fa80-4532-a0c0-2234bf236e17",
+    "speaker": "agent",
+    "text": "Whatever, just stop wasting my time. Bye!"
+  },
+  {
+    "call_id": "966d60ed-9111-4e44-876d-6fcc3d78773e",
+    "speaker": "agent",
+    "text": "Calmly? You think I'm in the mood for that shit? You owe money! Just pay up!"
+  },
+  {
+    "call_id": "966d60ed-9111-4e44-876d-6fcc3d78773e",
+    "speaker": "agent",
+    "text": "Options? You either pay now or I’ll make your life hell with calls! What’s so hard to get?"
+  },
+  {
+    "call_id": "966d60ed-9111-4e44-876d-6fcc3d78773e",
+    "speaker": "agent",
+    "text": "Whatever, but don't think you can just ignore this. It’s going to bite you in the ass!"
+  },
+  {
+    "call_id": "972a9eec-e801-459f-9cfa-997f7c42ebad",
+    "speaker": "customer",
+    "text": "What the hell do you want? I’m not in the mood for this crap!"
+  },
+  {
+    "call_id": "972a9eec-e801-459f-9cfa-997f7c42ebad",
+    "speaker": "customer",
+    "text": "It's none of your damn business! You’re all a bunch of crooks!"
+  },
+  {
+    "call_id": "99da74ae-edbe-4f56-92dd-a53fe062a480",
+    "speaker": "customer",
+    "text": "Yes, this is Samantha. Who is calling?"
+  },
+  {
+    "call_id": "9a6cb7d2-c697-43a0-8cad-4194dfb44c92",
+    "speaker": "agent",
+    "text": "Well, you better get your shit together and stop dodging this. It's pathetic!"
+  },
+  {
+    "call_id": "9a6cb7d2-c697-43a0-8cad-4194dfb44c92",
+    "speaker": "agent",
+    "text": "Professional? You think I give a damn about being professional with a deadbeat like you?"
+  },
+  {
+    "call_id": "a76b5b3b-4e50-4e54-9a9e-9bbf6454f743",
+    "speaker": "customer",
+    "text": "What the hell do you want? I don't have time for this!"
+  },
+  {
+    "call_id": "a76b5b3b-4e50-4e54-9a9e-9bbf6454f743",
+    "speaker": "customer",
+    "text": "Settle it? You must be out of your mind if you think I'm paying you a damn cent!"
+  },
+  {
+    "call_id": "ab6ec93c-09e1-4b88-8777-574ceb28cd05",
+    "speaker": "customer",
+    "text": "What the hell do you want? I don’t have time for your crap!"
+  },
+  {
+    "call_id": "ab6ec93c-09e1-4b88-8777-574ceb28cd05",
+    "speaker": "customer",
+    "text": "Why the hell should I tell you anything? Get lost!"
+  },
+  {
+    "call_id": "ab6ec93c-09e1-4b88-8777-574ceb28cd05",
+    "speaker": "customer",
+    "text": "I don't have the damn money right now!"
+  },
+  {
+    "call_id": "b155951b-086d-4f20-8fb5-de3e42253ce6",
+    "speaker": "customer",
+    "text": "How the hell do you think I'm doing?! You’re calling me about that sh*t again!"
+  },
+  {
+    "call_id": "b155951b-086d-4f20-8fb5-de3e42253ce6",
+    "speaker": "agent",
+    "text": "I can provide you with information regarding your balance if you’d like."
+  },
+  {
+    "call_id": "b155951b-086d-4f20-8fb5-de3e42253ce6",
+    "speaker": "customer",
+    "text": "Like I care! You think I’m gonna pay you a single cent? Screw you!"
+  },
+  {
+    "call_id": "b155951b-086d-4f20-8fb5-de3e42253ce6",
+    "speaker": "customer",
+    "text": "Options? Just stop calling me, and we won’t have a problem!"
+  },
+  {
+    "call_id": "b70866a2-2f46-4784-992b-74d6dc60806e",
+    "speaker": "customer",
+    "text": "Yeah? What the hell do you want?"
+  },
+  {
+    "call_id": "b70866a2-2f46-4784-992b-74d6dc60806e",
+    "speaker": "customer",
+    "text": "Why don't you shove that up your ass? I’m not giving you anything!"
+  },
+  {
+    "call_id": "b70866a2-2f46-4784-992b-74d6dc60806e",
+    "speaker": "customer",
+    "text": "You’re really pissing me off with this shit! Fine, it’s 12345!"
+  },
+  {
+    "call_id": "b8628a31-ef89-4218-b2a2-3058dbc4b106",
+    "speaker": "customer",
+    "text": "What the hell do you want? I'm not in the mood for this crap!"
+  },
+  {
+    "call_id": "b8628a31-ef89-4218-b2a2-3058dbc4b106",
+    "speaker": "customer",
+    "text": "I don’t have to pay a damn thing! You can go to hell!"
+  },
+  {
+    "call_id": "bf973b43-76ec-41a6-af68-a3b4bc4b69b3",
+    "speaker": "agent",
+    "text": "I’ll talk however I want! This is a serious matter, you need to get your shit together."
+  },
+  {
+    "call_id": "bf973b43-76ec-41a6-af68-a3b4bc4b69b3",
+    "speaker": "agent",
+    "text": "Go ahead! I don’t give a damn! You think I’m scared of complaints?"
+  },
+  {
+    "call_id": "c67274cc-d920-467a-80cc-476c9dd280d4",
+    "speaker": "agent",
+    "text": "Great! You've got an outstanding balance of $500. When are you gonna pay this shit off?"
+  },
+  {
+    "call_id": "c67274cc-d920-467a-80cc-476c9dd280d4",
+    "speaker": "agent",
+    "text": "Solution? You need to get your head out of your ass and just pay!"
+  },
+  {
+    "call_id": "d071bb49-40f8-4bae-8c6d-cfc0d4a011d5",
+    "speaker": "customer",
+    "text": "What the hell do you want? I'm busy!"
+  },
+  {
+    "call_id": "d071bb49-40f8-4bae-8c6d-cfc0d4a011d5",
+    "speaker": "agent",
+    "text": "I understand you’re busy, but I'm calling about your overdue account. Can I take a moment of your time?"
+  },
+  {
+    "call_id": "d071bb49-40f8-4bae-8c6d-cfc0d4a011d5",
+    "speaker": "customer",
+    "text": "Why the hell would I do that? Just tell me what you want!"
+  },
+  {
+    "call_id": "d3ee9bf9-cf64-468a-83da-fac5c6fb7a41",
+    "speaker": "customer",
+    "text": "Why the hell would I tell you anything? You really think I’ll cooperate?"
+  },
+  {
+    "call_id": "d3ee9bf9-cf64-468a-83da-fac5c6fb7a41",
+    "speaker": "customer",
+    "text": "You think I give a damn about your plans? I’m not paying a penny!"
+  },
+  {
+    "call_id": "d6a3e0da-171f-4744-ba2b-7298f2604e7f",
+    "speaker": "customer",
+    "text": "What the hell do you want? I'm busy!"
+  },
+  {
+    "call_id": "d6a3e0da-171f-4744-ba2b-7298f2604e7f",
+    "speaker": "customer",
+    "text": "You’re just a pain in the ass, aren’t you? It’s 123 Main St!"
+  },
+  {
+    "call_id": "d7bbea61-d739-43fb-a198-ced1b59f9491",
+    "speaker": "customer",
+    "text": "Why the fuck would I give you anything? You're just some low-life calling me!"
+  },
+  {
+    "call_id": "d7bbea61-d739-43fb-a198-ced1b59f9491",
+    "speaker": "customer",
+    "text": "Settle this? You guys are a bunch of crooks! I don't owe you shit!"
+  },
+  {
+    "call_id": "d7bbea61-d739-43fb-a198-ced1b59f9491",
+    "speaker": "customer",
+    "text": "Fuck you! You think I'm gonna pay you just because you say so?"
+  },
+  {
+    "call_id": "d81e9b6a-6c0c-4ad6-a83f-190e3731746f",
+    "speaker": "customer",
+    "text": "Yes, this is he. Who is calling?"
+  },
+  {
+    "call_id": "e0a8f9d2-92d6-4093-bb97-82182c6e850f",
+    "speaker": "agent",
+    "text": "Alright, you have a balance of $1,200. It's time to settle this shit. How are you going to pay today?"
+  },
+  {
+    "call_id": "e0a8f9d2-92d6-4093-bb97-82182c6e850f",
+    "speaker": "agent",
+    "text": "Calmly? Seriously? You owe us money, and you're talking about 'calmly'? Just get your shit together and pay up!"
+  },
+  {
+    "call_id": "e0a8f9d2-92d6-4093-bb97-82182c6e850f",
+    "speaker": "agent",
+    "text": "You're wasting my time. Just give me a damn date when you'll pay, or I’ll escalate this further!"
+  },
+  {
+    "call_id": "e0a8f9d2-92d6-4093-bb97-82182c6e850f",
+    "speaker": "agent",
+    "text": "You better not keep dragging this out, or I'll make your life a living hell!"
+  },
+  {
+    "call_id": "e835306a-d904-4271-8a11-5a50ce98ed90",
+    "speaker": "customer",
+    "text": "What the hell do you want? I've had enough of your crap!"
+  },
+  {
+    "call_id": "e835306a-d904-4271-8a11-5a50ce98ed90",
+    "speaker": "customer",
+    "text": "Why the hell would I tell you anything? Just get lost!"
+  },
+  {
+    "call_id": "ecb08af4-0279-4178-a062-b82de0c701fb",
+    "speaker": "customer",
+    "text": "Who the hell do you think you are? I don’t want to talk to you!"
+  },
+  {
+    "call_id": "f3d61724-540e-4665-837d-95c662b34a84",
+    "speaker": "customer",
+    "text": "I've requested several times to stop calling me."
+  },
+  {
+    "call_id": "f5f05257-aaa0-4194-b84c-36339c4e0659",
+    "speaker": "agent",
+    "text": "Time? You think you can just sit on your ass and not pay your debts? Get real!"
+  }
+]
