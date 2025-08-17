@@ -7,7 +7,17 @@
   {
     "call_id": "04bec80f-8614-484b-8ba2-831ff9dd03ef",
     "speaker": "agent",
+    "text": "Hello, this is Kyle from XYZ Collections. How the hell are you?"
+  },
+  {
+    "call_id": "04bec80f-8614-484b-8ba2-831ff9dd03ef",
+    "speaker": "agent",
     "text": "Alright, that checks out. Now, you owe us a shitload of money. What the hell are you planning to do about it?"
+  },
+  {
+    "call_id": "04bec80f-8614-484b-8ba2-831ff9dd03ef",
+    "speaker": "agent",
+    "text": "Options? Don't give me that crap. You need to pay up, plain and simple!"
   },
   {
     "call_id": "04bec80f-8614-484b-8ba2-831ff9dd03ef",
@@ -18,6 +28,41 @@
     "call_id": "04bec80f-8614-484b-8ba2-831ff9dd03ef",
     "speaker": "agent",
     "text": "A reasonable solution is to pay what you owe! Stop wasting my time!"
+  },
+  {
+    "call_id": "05731aab-0e72-46c1-8fd3-dc50fb20c758",
+    "speaker": "agent",
+    "text": "I'm calling regarding your account with City Bank. To ensure I’m speaking with the right person, could you verify your date of birth?"
+  },
+  {
+    "call_id": "0b6979e4-8c05-49e1-b7a7-94d85a627df5",
+    "speaker": "agent",
+    "text": "Alright, I will call you next Wednesday. Thank you for your time, Jessica."
+  },
+  {
+    "call_id": "0bf6844f-af6a-4e46-8d72-9ec01e4bc99a",
+    "speaker": "customer",
+    "text": "I don't have it handy right now."
+  },
+  {
+    "call_id": "0e2d1981-bd63-4fdd-a4ef-075732cbf26b",
+    "speaker": "agent",
+    "text": "I'm calling regarding an outstanding balance on your account. Can I get your name for verification?"
+  },
+  {
+    "call_id": "171ab2df-da45-49bc-9a7f-e2b0978c6972",
+    "speaker": "customer",
+    "text": "I'm fine, but why are you calling me?"
+  },
+  {
+    "call_id": "19169ec6-213f-48e9-8ec2-c24ee2e6eb20",
+    "speaker": "agent",
+    "text": "Hello, this is Mark calling from XYZ Collections. Am I speaking with Sarah?"
+  },
+  {
+    "call_id": "1f20a811-7d15-4fc0-b718-effedcc09c13",
+    "speaker": "customer",
+    "text": "Sure, it’s July 5, 1985."
   },
   {
     "call_id": "20690906-b8d4-40c5-8474-9127c47b1299",
@@ -41,13 +86,28 @@
   },
   {
     "call_id": "216fd3c8-1a80-484d-8792-464771794d9e",
+    "speaker": "agent",
+    "text": "I understand you're busy, but I'm calling regarding your outstanding balance. Can you please verify your date of birth so we can proceed?"
+  },
+  {
+    "call_id": "216fd3c8-1a80-484d-8792-464771794d9e",
     "speaker": "customer",
     "text": "I’m not paying a dime! You can shove that balance up your ass!"
+  },
+  {
+    "call_id": "229439eb-043f-4267-b327-88838b642233",
+    "speaker": "customer",
+    "text": "Sure, it's July 15th, 1985."
   },
   {
     "call_id": "23091fb3-8e07-4d4c-8575-227e3467e73a",
     "speaker": "agent",
     "text": "You better. Or, trust me, I’ll be back on your ass with more calls!"
+  },
+  {
+    "call_id": "29489f77-b8e0-462c-9286-9216d59890f1",
+    "speaker": "agent",
+    "text": "Got it. You have an outstanding balance of $500. How do you plan on handling this?"
   },
   {
     "call_id": "29489f77-b8e0-462c-9286-9216d59890f1",
@@ -60,9 +120,39 @@
     "text": "I don’t give a damn what you need! You owe money, and you better pay it!"
   },
   {
+    "call_id": "2ca5c9fd-f516-4a89-b25e-8de0ccc16fc3",
+    "speaker": "customer",
+    "text": "Sure, it's April 15th, 1990."
+  },
+  {
+    "call_id": "2db2965e-54fa-41fa-823b-ed79b943f0b1",
+    "speaker": "customer",
+    "text": "I'm fine, but I really don't have time for this right now."
+  },
+  {
+    "call_id": "2db2965e-54fa-41fa-823b-ed79b943f0b1",
+    "speaker": "agent",
+    "text": "I understand, I'll be brief. I'm calling about your overdue account with XYZ Bank."
+  },
+  {
     "call_id": "2ea925db-df94-4d9b-bd72-6c227742569d",
     "speaker": "customer",
     "text": "I don't have that information right now. Can you tell me the balance?"
+  },
+  {
+    "call_id": "2f279983-ea96-4c10-a09d-4b607de21a38",
+    "speaker": "agent",
+    "text": "Listen up, I need you to verify your date of birth before I can discuss your damn account."
+  },
+  {
+    "call_id": "2fbb34f8-fa48-4736-bc04-34e12819d43a",
+    "speaker": "customer",
+    "text": "Sure, it's July 15th, 1985."
+  },
+  {
+    "call_id": "34afbce9-7315-4a25-826b-5d70446a5dd8",
+    "speaker": "agent",
+    "text": "I understand your frustration. I'm calling about your overdue account with ABC Services."
   },
   {
     "call_id": "39c3e29c-7b7c-43d2-999b-eb473ec31de3",
@@ -70,9 +160,39 @@
     "text": "Yes, this is him. Who is calling?"
   },
   {
+    "call_id": "39c3e29c-7b7c-43d2-999b-eb473ec31de3",
+    "speaker": "agent",
+    "text": "This is Rachel from XYZ Collections. I'm calling about an outstanding balance on your account."
+  },
+  {
+    "call_id": "39c3e29c-7b7c-43d2-999b-eb473ec31de3",
+    "speaker": "agent",
+    "text": "Absolutely. I can process that payment for you. How would you like to pay?"
+  },
+  {
+    "call_id": "3e43ed42-da47-46ac-bb54-ec9c5f799124",
+    "speaker": "agent",
+    "text": "I understand your frustration. I'm calling about your overdue balance with your account."
+  },
+  {
+    "call_id": "3e6dde01-1a46-42b4-92dd-0a211185e660",
+    "speaker": "customer",
+    "text": "Why the f*** should I give you anything? You don't have the right to call me!"
+  },
+  {
     "call_id": "3e6dde01-1a46-42b4-92dd-0a211185e660",
     "speaker": "customer",
     "text": "Why don’t you shove it? I’m not telling you a damn thing!"
+  },
+  {
+    "call_id": "3e6dde01-1a46-42b4-92dd-0a211185e660",
+    "speaker": "customer",
+    "text": "You know what? You people are just a bunch of thieves! I don’t owe you anything!"
+  },
+  {
+    "call_id": "3e6dde01-1a46-42b4-92dd-0a211185e660",
+    "speaker": "customer",
+    "text": "I don’t want your help! Just stop calling me already!"
   },
   {
     "call_id": "3e77de75-66b9-4b74-a993-1c25b6850bc9",
@@ -85,6 +205,31 @@
     "text": "Why the hell should I tell you anything? You're just after my money!"
   },
   {
+    "call_id": "3e77de75-66b9-4b74-a993-1c25b6850bc9",
+    "speaker": "customer",
+    "text": "This is all bullshit! I'm not paying a dime!"
+  },
+  {
+    "call_id": "41415d92-c12f-478a-b747-4d94773c2011",
+    "speaker": "customer",
+    "text": "Sure, it's July 15th, 1987."
+  },
+  {
+    "call_id": "43bb3199-b004-41ef-a7da-1ae746f1567c",
+    "speaker": "customer",
+    "text": "Sure, it's 4111 1111 1111 1111."
+  },
+  {
+    "call_id": "467483c7-8c70-40dd-9449-384547b9ea93",
+    "speaker": "customer",
+    "text": "Sure, it's July 15th, 1990."
+  },
+  {
+    "call_id": "46a46fb9-78ba-4502-873c-7e409f03ffc2",
+    "speaker": "agent",
+    "text": "Certainly, I can assist you with that. How much would you like to pay each month?"
+  },
+  {
     "call_id": "4f05aaff-585f-485f-90a1-60d027ec6e46",
     "speaker": "agent",
     "text": "You say that every damn time! What’s stopping you from sorting this out now?"
@@ -92,7 +237,17 @@
   {
     "call_id": "4f05aaff-585f-485f-90a1-60d027ec6e46",
     "speaker": "agent",
+    "text": "Yeah, right! Spare me the excuses! You’re just wasting time here!"
+  },
+  {
+    "call_id": "4f05aaff-585f-485f-90a1-60d027ec6e46",
+    "speaker": "agent",
     "text": "Professional? You think I’m playing games? Get your shit together!"
+  },
+  {
+    "call_id": "4f05aaff-585f-485f-90a1-60d027ec6e46",
+    "speaker": "customer",
+    "text": "I will make sure to pay what I owe. Thank you for your time."
   },
   {
     "call_id": "4f05aaff-585f-485f-90a1-60d027ec6e46",
@@ -102,7 +257,22 @@
   {
     "call_id": "50abe040-847c-47e1-962f-a00d7ff2cfe4",
     "speaker": "agent",
+    "text": "I'm calling about your overdue account. You’re really behind on your payments, you know that?"
+  },
+  {
+    "call_id": "50abe040-847c-47e1-962f-a00d7ff2cfe4",
+    "speaker": "agent",
+    "text": "Details? You should already know that you owe us—get your act together!"
+  },
+  {
+    "call_id": "50abe040-847c-47e1-962f-a00d7ff2cfe4",
+    "speaker": "agent",
     "text": "Professionally? This is a debt collection call, not a tea party! Pay your damn bills!"
+  },
+  {
+    "call_id": "52ddb4a0-0599-4e18-a961-ac4b67da8d5e",
+    "speaker": "agent",
+    "text": "Payment options? Just pay it already, it’s not that hard!"
   },
   {
     "call_id": "52ddb4a0-0599-4e18-a961-ac4b67da8d5e",
@@ -120,6 +290,21 @@
     "text": "What part of 'leave me the hell alone' don’t you get? I’m not giving you anything!"
   },
   {
+    "call_id": "584fd5cd-adaa-4315-bf67-ad56d02d135e",
+    "speaker": "customer",
+    "text": "This is so f****** ridiculous! It’s not like I owe you anything anyway!"
+  },
+  {
+    "call_id": "584fd5cd-adaa-4315-bf67-ad56d02d135e",
+    "speaker": "customer",
+    "text": "Whatever, just shut the f*** up!"
+  },
+  {
+    "call_id": "5b8dc067-9564-4e0f-b27f-a54f661c36bd",
+    "speaker": "customer",
+    "text": "Sure, it's 1234."
+  },
+  {
     "call_id": "5c0bf9ad-669f-4a26-8c08-4af6f9698cf0",
     "speaker": "agent",
     "text": "I'm calling in regard to your account with Quick Loans. Can you please confirm your full name so we can proceed?"
@@ -127,12 +312,37 @@
   {
     "call_id": "5e231fa2-03d8-4e70-9918-da45193472a9",
     "speaker": "agent",
+    "text": "Sure, whatever. You've got a balance of three thousand dollars. You gonna pay it or what?"
+  },
+  {
+    "call_id": "5e231fa2-03d8-4e70-9918-da45193472a9",
+    "speaker": "agent",
+    "text": "Options? What the hell does that even mean? You owe money, pay up!"
+  },
+  {
+    "call_id": "5e231fa2-03d8-4e70-9918-da45193472a9",
+    "speaker": "agent",
     "text": "Feasible? Stop giving me excuses. Just pick a damn payment method!"
+  },
+  {
+    "call_id": "6941b4ed-b5d9-451b-8ffc-ee80b4904702",
+    "speaker": "customer",
+    "text": "Sure, take your time."
+  },
+  {
+    "call_id": "6ca65973-5d6f-4ae8-824d-691263af7c22",
+    "speaker": "agent",
+    "text": "I sincerely apologize for the inconvenience. Let me take care of that for you right now."
   },
   {
     "call_id": "708878fa-108e-4c22-b7bf-1d5c38227087",
     "speaker": "customer",
     "text": "What the hell do you want? I'm sick of this crap!"
+  },
+  {
+    "call_id": "708878fa-108e-4c22-b7bf-1d5c38227087",
+    "speaker": "agent",
+    "text": "I understand you're frustrated. I'm calling regarding your overdue account."
   },
   {
     "call_id": "708878fa-108e-4c22-b7bf-1d5c38227087",
@@ -146,8 +356,23 @@
   },
   {
     "call_id": "708e7950-1be4-47a7-9c82-e03c88f5a1d0",
+    "speaker": "agent",
+    "text": "Hello, this is Mark calling from XYZ Collections. Am I speaking with Sarah Johnson?"
+  },
+  {
+    "call_id": "708e7950-1be4-47a7-9c82-e03c88f5a1d0",
     "speaker": "customer",
     "text": "Please do that. I’d like to resolve this quickly."
+  },
+  {
+    "call_id": "73a011af-5fcc-458b-9ae5-48c7367eab5d",
+    "speaker": "customer",
+    "text": "Sure, it's February 14th, 1990."
+  },
+  {
+    "call_id": "742147aa-a2df-4429-859e-05b4a7875563",
+    "speaker": "customer",
+    "text": "Sure, it's 123456789."
   },
   {
     "call_id": "74aa32ec-6cf0-4c54-bbdb-a8e16d66f457",
@@ -155,9 +380,44 @@
     "text": "Yes, this is he. Who’s calling?"
   },
   {
+    "call_id": "74aa32ec-6cf0-4c54-bbdb-a8e16d66f457",
+    "speaker": "agent",
+    "text": "Absolutely, we can set up a payment plan for you. How much would you like to pay each month?"
+  },
+  {
+    "call_id": "76e1c00c-bdcf-43c1-aee6-ea7dd7fa85fa",
+    "speaker": "agent",
+    "text": "I’m calling about your outstanding balance with Universal Credit. Can I have your account number to pull up your information?"
+  },
+  {
     "call_id": "76e1c00c-bdcf-43c1-aee6-ea7dd7fa85fa",
     "speaker": "customer",
     "text": "I don’t have that right now. Can you tell me what balance you're referring to?"
+  },
+  {
+    "call_id": "76e1c00c-bdcf-43c1-aee6-ea7dd7fa85fa",
+    "speaker": "customer",
+    "text": "Sure, it's 1234."
+  },
+  {
+    "call_id": "80e5fe02-ec03-4ca5-902a-fdf38e6b7b8a",
+    "speaker": "agent",
+    "text": "Absolutely, I'll make sure this number is removed. Thank you for your understanding."
+  },
+  {
+    "call_id": "833dd6d6-87a7-4fe6-9249-9556c7d92c2f",
+    "speaker": "customer",
+    "text": "Sure, it's January fifteenth, nineteen eighty-five."
+  },
+  {
+    "call_id": "833dd6d6-87a7-4fe6-9249-9556c7d92c2f",
+    "speaker": "customer",
+    "text": "Alright, let’s do it."
+  },
+  {
+    "call_id": "849b1e2c-abc5-41a4-a1b1-0b97cd2a245d",
+    "speaker": "customer",
+    "text": "I'm fine, but why are you calling me?"
   },
   {
     "call_id": "8598c6d9-a767-4120-af0a-5490357c72f3",
@@ -165,9 +425,29 @@
     "text": "Why the hell do you need that? Just f*** off already!"
   },
   {
+    "call_id": "8598c6d9-a767-4120-af0a-5490357c72f3",
+    "speaker": "customer",
+    "text": "I'm not paying a damn thing! You can shove it up your a**!"
+  },
+  {
+    "call_id": "86bf609e-5d0b-4e4b-a4da-d265c78507a9",
+    "speaker": "customer",
+    "text": "Sure, it's February 14th, 1990."
+  },
+  {
     "call_id": "87e28dae-2c70-4122-9452-6ec82164fab2",
     "speaker": "agent",
     "text": "Options? How about you just stop being so damn lazy and settle your debt? That's an option!"
+  },
+  {
+    "call_id": "87e28dae-2c70-4122-9452-6ec82164fab2",
+    "speaker": "agent",
+    "text": "Respectful? You think I owe you respect? Pay your damn bills and maybe I will!"
+  },
+  {
+    "call_id": "89d28c5a-f0da-41e9-a93e-0a749c20189c",
+    "speaker": "agent",
+    "text": "Options? What options? You can either pay up or get the hell out of here with your excuses!"
   },
   {
     "call_id": "89d28c5a-f0da-41e9-a93e-0a749c20189c",
@@ -191,6 +471,11 @@
   },
   {
     "call_id": "8e34b537-4076-4736-b07f-5437c2379e57",
+    "speaker": "agent",
+    "text": "I'm calling regarding your outstanding balance with ABC Credit. Can I confirm your account details?"
+  },
+  {
+    "call_id": "8e34b537-4076-4736-b07f-5437c2379e57",
     "speaker": "customer",
     "text": "Sure, I’d like to know the balance first."
   },
@@ -198,6 +483,36 @@
     "call_id": "928acb70-fa80-4532-a0c0-2234bf236e17",
     "speaker": "agent",
     "text": "Whatever, just stop wasting my time. Bye!"
+  },
+  {
+    "call_id": "94609779-f099-4702-9b8f-7d07bc3c7c04",
+    "speaker": "customer",
+    "text": "Sure, it's Lisa Grant. I really don’t have any association with that bank."
+  },
+  {
+    "call_id": "9505f0e7-5404-4f50-a497-35a9e899197c",
+    "speaker": "agent",
+    "text": "Hello, this is Mark from XYZ Collections. I need to talk about your damn overdue account. How's that for a nice greeting?"
+  },
+  {
+    "call_id": "9505f0e7-5404-4f50-a497-35a9e899197c",
+    "speaker": "agent",
+    "text": "Listen up! I don't have time for this crap. Just verify your freaking address so we can get this over with."
+  },
+  {
+    "call_id": "9505f0e7-5404-4f50-a497-35a9e899197c",
+    "speaker": "agent",
+    "text": "Yeah, well, that’s not my problem! Just get it sorted or face the consequences!"
+  },
+  {
+    "call_id": "9530d56d-f98f-491f-a29c-88bf3c9ffded",
+    "speaker": "agent",
+    "text": "Absolutely, we can set that up. How much would you like to pay monthly?"
+  },
+  {
+    "call_id": "966d60ed-9111-4e44-876d-6fcc3d78773e",
+    "speaker": "agent",
+    "text": "Alright, you've got a balance of $3,000. How the hell do you plan to settle that?"
   },
   {
     "call_id": "966d60ed-9111-4e44-876d-6fcc3d78773e",
@@ -225,9 +540,19 @@
     "text": "It's none of your damn business! You’re all a bunch of crooks!"
   },
   {
+    "call_id": "972a9eec-e801-459f-9cfa-997f7c42ebad",
+    "speaker": "customer",
+    "text": "I don’t have to give you s***! You’re a joke!"
+  },
+  {
     "call_id": "99da74ae-edbe-4f56-92dd-a53fe062a480",
     "speaker": "customer",
     "text": "Yes, this is Samantha. Who is calling?"
+  },
+  {
+    "call_id": "99da74ae-edbe-4f56-92dd-a53fe062a480",
+    "speaker": "agent",
+    "text": "I understand, and I appreciate your time. I'm calling regarding your outstanding account balance."
   },
   {
     "call_id": "9a6cb7d2-c697-43a0-8cad-4194dfb44c92",
@@ -240,6 +565,26 @@
     "text": "Professional? You think I give a damn about being professional with a deadbeat like you?"
   },
   {
+    "call_id": "9e936113-46a1-4d70-9cc5-876b1c801602",
+    "speaker": "customer",
+    "text": "I don't have it on me. Is there another way to verify?"
+  },
+  {
+    "call_id": "a033d0d6-eb56-4cc8-8e31-0a00c7c94607",
+    "speaker": "agent",
+    "text": "Hello, this is Mark calling from XYZ Collections. Am I speaking with Sarah?"
+  },
+  {
+    "call_id": "a4fdf58d-20ad-4b95-901e-ec92458827c1",
+    "speaker": "customer",
+    "text": "Sure, it’s 1234-5678-9101-1121."
+  },
+  {
+    "call_id": "a73d777f-368a-46b5-9d59-0aa5829b4427",
+    "speaker": "agent",
+    "text": "I'm calling from XYZ Collections regarding some outstanding debt connected to your account."
+  },
+  {
     "call_id": "a76b5b3b-4e50-4e54-9a9e-9bbf6454f743",
     "speaker": "customer",
     "text": "What the hell do you want? I don't have time for this!"
@@ -250,9 +595,29 @@
     "text": "Settle it? You must be out of your mind if you think I'm paying you a damn cent!"
   },
   {
+    "call_id": "a76b5b3b-4e50-4e54-9a9e-9bbf6454f743",
+    "speaker": "customer",
+    "text": "I don't want your help! Just stop calling me!"
+  },
+  {
+    "call_id": "a8de9746-ee32-4126-8faa-726f3b3c7da2",
+    "speaker": "customer",
+    "text": "Thank you, please make sure that happens."
+  },
+  {
+    "call_id": "ab0a99e3-48f9-430b-9d6c-c5cadd5618de",
+    "speaker": "customer",
+    "text": "Sure, it's February 15th, 1990."
+  },
+  {
     "call_id": "ab6ec93c-09e1-4b88-8777-574ceb28cd05",
     "speaker": "customer",
     "text": "What the hell do you want? I don’t have time for your crap!"
+  },
+  {
+    "call_id": "ab6ec93c-09e1-4b88-8777-574ceb28cd05",
+    "speaker": "agent",
+    "text": "I understand you're busy. I’m calling about your outstanding balance with ABC Lending. First, can you please verify your date of birth?"
   },
   {
     "call_id": "ab6ec93c-09e1-4b88-8777-574ceb28cd05",
@@ -263,6 +628,16 @@
     "call_id": "ab6ec93c-09e1-4b88-8777-574ceb28cd05",
     "speaker": "customer",
     "text": "I don't have the damn money right now!"
+  },
+  {
+    "call_id": "ab6ec93c-09e1-4b88-8777-574ceb28cd05",
+    "speaker": "customer",
+    "text": "I don’t want any of your stupid options! Just leave me alone!"
+  },
+  {
+    "call_id": "af38fcd1-31d5-4128-9dc3-d2b72ecb20c5",
+    "speaker": "agent",
+    "text": "Absolutely. I will send you an email with the payment link right after this call. Is there anything else I can assist you with?"
   },
   {
     "call_id": "b155951b-086d-4f20-8fb5-de3e42253ce6",
@@ -285,6 +660,21 @@
     "text": "Options? Just stop calling me, and we won’t have a problem!"
   },
   {
+    "call_id": "b1cc178e-4afc-4da6-8a41-d2fc61db8fef",
+    "speaker": "customer",
+    "text": "Sure, take your time."
+  },
+  {
+    "call_id": "b2fefeb0-5115-4042-be07-1ef1ddfa8406",
+    "speaker": "customer",
+    "text": "Sure, it's July 15th, 1985."
+  },
+  {
+    "call_id": "b2fefeb0-5115-4042-be07-1ef1ddfa8406",
+    "speaker": "customer",
+    "text": "Sure, take your time."
+  },
+  {
     "call_id": "b70866a2-2f46-4784-992b-74d6dc60806e",
     "speaker": "customer",
     "text": "Yeah? What the hell do you want?"
@@ -297,7 +687,17 @@
   {
     "call_id": "b70866a2-2f46-4784-992b-74d6dc60806e",
     "speaker": "customer",
+    "text": "Oh, give me a break! You think I owe you something, right?"
+  },
+  {
+    "call_id": "b70866a2-2f46-4784-992b-74d6dc60806e",
+    "speaker": "customer",
     "text": "You’re really pissing me off with this shit! Fine, it’s 12345!"
+  },
+  {
+    "call_id": "b76917d8-cb80-481a-84d5-25de34e98f95",
+    "speaker": "customer",
+    "text": "Sure, it's 1234."
   },
   {
     "call_id": "b8628a31-ef89-4218-b2a2-3058dbc4b106",
@@ -307,7 +707,32 @@
   {
     "call_id": "b8628a31-ef89-4218-b2a2-3058dbc4b106",
     "speaker": "customer",
+    "text": "What a joke! I don’t owe you anything, you idiots!"
+  },
+  {
+    "call_id": "b8628a31-ef89-4218-b2a2-3058dbc4b106",
+    "speaker": "customer",
     "text": "I don’t have to pay a damn thing! You can go to hell!"
+  },
+  {
+    "call_id": "b8628a31-ef89-4218-b2a2-3058dbc4b106",
+    "speaker": "customer",
+    "text": "Whatever, don’t call me again!"
+  },
+  {
+    "call_id": "bb5f1472-36df-4758-9824-4699a60e80f5",
+    "speaker": "customer",
+    "text": "Sure, it's 555-123-4567."
+  },
+  {
+    "call_id": "bd8b74d4-c630-4bb0-ac61-f3c8042f583c",
+    "speaker": "agent",
+    "text": "I'm calling regarding your outstanding balance with ABC Credit Union. Can I get your address to locate your account?"
+  },
+  {
+    "call_id": "bf973b43-76ec-41a6-af68-a3b4bc4b69b3",
+    "speaker": "agent",
+    "text": "I’m calling about the overdue balance on your account. You owe quite a bit of money, and I need to sort this out."
   },
   {
     "call_id": "bf973b43-76ec-41a6-af68-a3b4bc4b69b3",
@@ -320,6 +745,26 @@
     "text": "Go ahead! I don’t give a damn! You think I’m scared of complaints?"
   },
   {
+    "call_id": "c0c24a7d-88c3-4ac3-af0d-ad36b9891fb2",
+    "speaker": "customer",
+    "text": "I’m good, but why are you calling me?"
+  },
+  {
+    "call_id": "c0c24a7d-88c3-4ac3-af0d-ad36b9891fb2",
+    "speaker": "agent",
+    "text": "I apologize for the confusion. Let me take care of that for you right now."
+  },
+  {
+    "call_id": "c46407f6-d657-47ab-9ed7-1c31d5cc8a4e",
+    "speaker": "agent",
+    "text": "Sure! The charges include recent purchases and some fees. Would you like to set up a payment plan?"
+  },
+  {
+    "call_id": "c46407f6-d657-47ab-9ed7-1c31d5cc8a4e",
+    "speaker": "agent",
+    "text": "Got it! I'll send that over. Just for confirmation, can you provide your email address?"
+  },
+  {
     "call_id": "c67274cc-d920-467a-80cc-476c9dd280d4",
     "speaker": "agent",
     "text": "Great! You've got an outstanding balance of $500. When are you gonna pay this shit off?"
@@ -327,7 +772,27 @@
   {
     "call_id": "c67274cc-d920-467a-80cc-476c9dd280d4",
     "speaker": "agent",
+    "text": "Assessing your finances? Whatever! Just get your act together and pay us!"
+  },
+  {
+    "call_id": "c67274cc-d920-467a-80cc-476c9dd280d4",
+    "speaker": "agent",
+    "text": "Time? You think we have time to waste? Get real! This is unacceptable!"
+  },
+  {
+    "call_id": "c67274cc-d920-467a-80cc-476c9dd280d4",
+    "speaker": "agent",
     "text": "Solution? You need to get your head out of your ass and just pay!"
+  },
+  {
+    "call_id": "c6ba11d2-8bce-427b-973e-7a1d67813330",
+    "speaker": "customer",
+    "text": "Let’s say March 15th for the remaining."
+  },
+  {
+    "call_id": "c9208cf9-bf7a-484e-b1b2-c346144af197",
+    "speaker": "agent",
+    "text": "This is Jake from XYZ Debt Collection. I'm calling about an outstanding balance."
   },
   {
     "call_id": "d071bb49-40f8-4bae-8c6d-cfc0d4a011d5",
@@ -342,7 +807,37 @@
   {
     "call_id": "d071bb49-40f8-4bae-8c6d-cfc0d4a011d5",
     "speaker": "customer",
+    "text": "You can shove it! I'm not paying a damn thing!"
+  },
+  {
+    "call_id": "d071bb49-40f8-4bae-8c6d-cfc0d4a011d5",
+    "speaker": "customer",
+    "text": "I don't give a crap about your stupid questions!"
+  },
+  {
+    "call_id": "d071bb49-40f8-4bae-8c6d-cfc0d4a011d5",
+    "speaker": "customer",
     "text": "Why the hell would I do that? Just tell me what you want!"
+  },
+  {
+    "call_id": "d071bb49-40f8-4bae-8c6d-cfc0d4a011d5",
+    "speaker": "customer",
+    "text": "You really think I’m gonna listen to your bullshit? Get lost!"
+  },
+  {
+    "call_id": "d1472118-ae60-47a2-a447-ee9b9bfdd0c1",
+    "speaker": "agent",
+    "text": "Absolutely, we can set you up with a payment plan. How much would you like to pay each month?"
+  },
+  {
+    "call_id": "d300835a-37e7-4da5-a998-c2203a674349",
+    "speaker": "agent",
+    "text": "I'm calling about your outstanding account with ABC Credit. To ensure I’m speaking to the right person, could you please verify your date of birth?"
+  },
+  {
+    "call_id": "d300835a-37e7-4da5-a998-c2203a674349",
+    "speaker": "customer",
+    "text": "Sure, it's September 15th, 1990."
   },
   {
     "call_id": "d3ee9bf9-cf64-468a-83da-fac5c6fb7a41",
@@ -355,14 +850,44 @@
     "text": "You think I give a damn about your plans? I’m not paying a penny!"
   },
   {
+    "call_id": "d3ee9bf9-cf64-468a-83da-fac5c6fb7a41",
+    "speaker": "customer",
+    "text": "Issues? I've got bigger problems than your stupid debt! Just leave me alone!"
+  },
+  {
+    "call_id": "d3ee9bf9-cf64-468a-83da-fac5c6fb7a41",
+    "speaker": "agent",
+    "text": "Thank you for your time. If you change your mind, please give us a call back."
+  },
+  {
     "call_id": "d6a3e0da-171f-4744-ba2b-7298f2604e7f",
     "speaker": "customer",
     "text": "What the hell do you want? I'm busy!"
   },
   {
     "call_id": "d6a3e0da-171f-4744-ba2b-7298f2604e7f",
+    "speaker": "agent",
+    "text": "I understand you're busy. I'm calling about your outstanding balance. To proceed, could you please verify your date of birth?"
+  },
+  {
+    "call_id": "d6a3e0da-171f-4744-ba2b-7298f2604e7f",
     "speaker": "customer",
     "text": "You’re just a pain in the ass, aren’t you? It’s 123 Main St!"
+  },
+  {
+    "call_id": "d78c5a90-2f3c-4657-a121-9d5778b051bf",
+    "speaker": "agent",
+    "text": "Hello, is this Mark Reynolds? This is Lisa calling from XYZ Collections."
+  },
+  {
+    "call_id": "d78c5a90-2f3c-4657-a121-9d5778b051bf",
+    "speaker": "agent",
+    "text": "I apologize. I'm calling about an outstanding balance on an account with ABC Credit."
+  },
+  {
+    "call_id": "d78c5a90-2f3c-4657-a121-9d5778b051bf",
+    "speaker": "customer",
+    "text": "It's Sarah Thompson. I can assure you, I don’t have any debts."
   },
   {
     "call_id": "d7bbea61-d739-43fb-a198-ced1b59f9491",
@@ -380,9 +905,34 @@
     "text": "Fuck you! You think I'm gonna pay you just because you say so?"
   },
   {
+    "call_id": "d7bbea61-d739-43fb-a198-ced1b59f9491",
+    "speaker": "customer",
+    "text": "Yeah, whatever. Just get the hell off my phone!"
+  },
+  {
     "call_id": "d81e9b6a-6c0c-4ad6-a83f-190e3731746f",
     "speaker": "customer",
     "text": "Yes, this is he. Who is calling?"
+  },
+  {
+    "call_id": "dbd3e2fd-4a8f-4eb3-aa6f-befcc150bfd8",
+    "speaker": "customer",
+    "text": "I don’t have that right now, can you give me more details first?"
+  },
+  {
+    "call_id": "dd662920-e3e6-45da-a97c-a59ed0971b60",
+    "speaker": "agent",
+    "text": "Absolutely, we can set that up. What amount would you like to pay monthly?"
+  },
+  {
+    "call_id": "ddaea5f2-20b8-439a-a0be-ac92bb606e7a",
+    "speaker": "customer",
+    "text": "Thank you for calling. Your message will be delivered after the tone."
+  },
+  {
+    "call_id": "df372d50-4a09-4429-91c4-9a87a5f486e2",
+    "speaker": "agent",
+    "text": "This is Jessica calling from XYZ Collections. I'm calling about your account with Fast Credit Co. Can you please confirm your date of birth for identity verification?"
   },
   {
     "call_id": "e0a8f9d2-92d6-4093-bb97-82182c6e850f",
@@ -405,6 +955,16 @@
     "text": "You better not keep dragging this out, or I'll make your life a living hell!"
   },
   {
+    "call_id": "e1b7e07b-c906-40f4-9173-5bfbe32f040f",
+    "speaker": "agent",
+    "text": "This is Morgan from XYZ Collections. I'm calling about your account with City Finance."
+  },
+  {
+    "call_id": "e4ab6a0c-49a4-41a7-9448-f48c5ff25d87",
+    "speaker": "agent",
+    "text": "I'm calling regarding the outstanding balance on your account. Can I have your address to access your details?"
+  },
+  {
     "call_id": "e835306a-d904-4271-8a11-5a50ce98ed90",
     "speaker": "customer",
     "text": "What the hell do you want? I've had enough of your crap!"
@@ -415,9 +975,24 @@
     "text": "Why the hell would I tell you anything? Just get lost!"
   },
   {
+    "call_id": "e835306a-d904-4271-8a11-5a50ce98ed90",
+    "speaker": "customer",
+    "text": "I’m not paying you a damn thing! You can't make me!"
+  },
+  {
+    "call_id": "e96bd606-4673-43e3-b04b-f6a474bb86a0",
+    "speaker": "agent",
+    "text": "I'm Samantha from XYZ Collections. I'm calling about your account with Central Finance."
+  },
+  {
     "call_id": "ecb08af4-0279-4178-a062-b82de0c701fb",
     "speaker": "customer",
     "text": "Who the hell do you think you are? I don’t want to talk to you!"
+  },
+  {
+    "call_id": "ee078707-82d8-4937-942a-0d1dce58dac5",
+    "speaker": "customer",
+    "text": "Got it, thank you."
   },
   {
     "call_id": "f3d61724-540e-4665-837d-95c662b34a84",
@@ -428,5 +1003,25 @@
     "call_id": "f5f05257-aaa0-4194-b84c-36339c4e0659",
     "speaker": "agent",
     "text": "Time? You think you can just sit on your ass and not pay your debts? Get real!"
+  },
+  {
+    "call_id": "f5f05257-aaa0-4194-b84c-36339c4e0659",
+    "speaker": "agent",
+    "text": "Whatever, just make sure you don't screw this up again."
+  },
+  {
+    "call_id": "f6a64305-ca58-469a-aaab-cd9f3a2c009d",
+    "speaker": "agent",
+    "text": "Hello, this is Mark calling from XYZ Collections. Am I speaking with Sarah Johnson?"
+  },
+  {
+    "call_id": "fa8af38b-d3f8-415c-a69b-e28dccf8af99",
+    "speaker": "customer",
+    "text": "I’m not sure I can pay the full amount right now."
+  },
+  {
+    "call_id": "fe55cb8b-d868-4309-8a6c-2090bb1c2982",
+    "speaker": "agent",
+    "text": "I'm calling regarding your account with Quick Loans. Before we proceed, could you please verify your date of birth?"
   }
 ]
