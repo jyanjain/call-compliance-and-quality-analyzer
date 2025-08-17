@@ -20,6 +20,11 @@
     "text": "Payment plan? Who the hell do you think you are? Just pay the damn balance!"
   },
   {
+    "call_id": "04bec80f-8614-484b-8ba2-831ff9dd03ef",
+    "speaker": "agent",
+    "text": "A reasonable solution is to pay what you owe! Stop wasting my time!"
+  },
+  {
     "call_id": "20690906-b8d4-40c5-8474-9127c47b1299",
     "speaker": "customer",
     "text": "How the hell do you think I am? It's not like I wanted this call!"
@@ -105,6 +110,11 @@
     "text": "Why don’t you shove it? I’m not telling you a damn thing!"
   },
   {
+    "call_id": "3e6dde01-1a46-42b4-92dd-0a211185e660",
+    "speaker": "customer",
+    "text": "You’re wasting my time, you know that? I’m done! Just get lost!"
+  },
+  {
     "call_id": "3e77de75-66b9-4b74-a993-1c25b6850bc9",
     "speaker": "customer",
     "text": "What the hell do you want? I'm not in the mood for this crap!"
@@ -148,6 +158,11 @@
     "call_id": "50abe040-847c-47e1-962f-a00d7ff2cfe4",
     "speaker": "agent",
     "text": "Professionally? This is a debt collection call, not a tea party! Pay your damn bills!"
+  },
+  {
+    "call_id": "50abe040-847c-47e1-962f-a00d7ff2cfe4",
+    "speaker": "agent",
+    "text": "A couple of days? You better not be wasting my time! What’s your next excuse?"
   },
   {
     "call_id": "50abe040-847c-47e1-962f-a00d7ff2cfe4",
@@ -263,6 +278,11 @@
     "call_id": "928acb70-fa80-4532-a0c0-2234bf236e17",
     "speaker": "agent",
     "text": "Hello, this is Mark from XYZ Collections. How the hell are you today?"
+  },
+  {
+    "call_id": "928acb70-fa80-4532-a0c0-2234bf236e17",
+    "speaker": "agent",
+    "text": "Whatever, just stop wasting my time. Bye!"
   },
   {
     "call_id": "9505f0e7-5404-4f50-a497-35a9e899197c",
@@ -493,6 +513,11 @@
     "call_id": "d3ee9bf9-cf64-468a-83da-fac5c6fb7a41",
     "speaker": "customer",
     "text": "Why the hell would I tell you anything? You really think I’ll cooperate?"
+  },
+  {
+    "call_id": "d3ee9bf9-cf64-468a-83da-fac5c6fb7a41",
+    "speaker": "customer",
+    "text": "Screw your verification! You’re just wasting my time, you idiots!"
   },
   {
     "call_id": "d3ee9bf9-cf64-468a-83da-fac5c6fb7a41",
