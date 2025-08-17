@@ -56,4 +56,4 @@ def detect_profanity_regex(folder: str):
 
     return agent_profanity_calls, borrower_profanity_calls
 
-detect_profanity_regex("All_Conversations")
+# detect_profanity_regex("All_Conversations")
